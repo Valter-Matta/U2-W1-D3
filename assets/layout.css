@@ -1,0 +1,16 @@
+#card-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+main h1 {
+  font-size: 2rem;
+  font-weight: bolder;
+  padding: 1rem;
+  margin-left: 1rem;
+  text-align: center;
+}
+body {
+  color: #612406;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

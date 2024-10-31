@@ -1,0 +1,40 @@
+#Our-honey {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  padding: 6rem 0.5rem;
+  background-color: #fef7e2;
+  width: 80%;
+  margin: 1.5rem auto;
+  border-radius: 25px;
+  color: #612406;
+}
+
+#Our-honey img {
+  padding: 1rem;
+  width: 85%;
+  height: 70%;
+  margin: 0 auto;
+}
+
+#Our-honey h2 {
+  font-size: 1.4rem;
+  padding: 1rem;
+  font-weight: bold;
+}
+#Our-honey p {
+  padding: 1rem;
+  font-size: 1.1rem;
+}
+@media screen and (min-width: 967px) {
+  #Our-honey {
+    height: auto;
+  }
+
+  #Our-honey img {
+    padding: 1rem;
+    max-width: 80%;
+    height: 100%;
+    margin: 0 auto;
+  }
+}
